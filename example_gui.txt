@@ -1,0 +1,8 @@
+1. yolo (you only look once) for data input
+2. yolo will automatically pass the prompt.
+3. use chatbot for output data
+
+
+
+yolo will detect all cards ? can it success this job?
+prompt = Question_Format + array of object storing the current mahjong in hand
